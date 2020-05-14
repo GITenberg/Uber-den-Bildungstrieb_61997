@@ -1,0 +1,30 @@
+_repo: Uber-den-Bildungstrieb_61997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blumenbach, Johann Friedrich
+    aliases:
+    - Blumenbach, J. F. (John Friedrich)
+    - Blumenbach, J. Friedrich (John Friedrich)
+    birthdate: 1752
+    deathdate: 1840
+    gutenberg_agent_id: '51718'
+    url: http://www.gutenberg.org/2009/agents/51718
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Johann_Friedrich_Blumenbach
+    - https://en.wikipedia.org/wiki/Johann_Friedrich_Blumenbach
+description: ''
+gutenberg_issued: '2020-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61997'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reproduction'
+- !lcc 'QH'
+- GITenberg
+title: Über den Bildungstrieb
+url: http://www.gutenberg.org/ebooks/61997
