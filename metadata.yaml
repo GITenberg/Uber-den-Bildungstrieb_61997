@@ -1,5 +1,8 @@
 _repo: Uber-den-Bildungstrieb_61997
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61997-h/images/cover.jpg
 creator:
   author:
     agent_name: Blumenbach, Johann Friedrich
@@ -14,6 +17,8 @@ creator:
     - https://de.wikipedia.org/wiki/Johann_Friedrich_Blumenbach
     - https://en.wikipedia.org/wiki/Johann_Friedrich_Blumenbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61997#Uber-den-Bildungstrieb
 gutenberg_issued: '2020-05-02'
 gutenberg_type: Text
 identifiers:
